@@ -4,7 +4,6 @@ This project is a Health Blog application built with React and TypeScript. It fe
 
 Ce projet est une application de Blog Santé construite avec React et TypeScript. Il récupère des données de l'API JSONPlaceholder pour afficher une liste d'articles de blog, permet aux utilisateurs de rechercher des articles par titre et de filtrer par auteur, et implémente une fonctionnalité de défilement infini pour charger plus de contenu à mesure que l'utilisateur fait défiler la page.
 
-![Blog-react-typscript](Desktop/proje/blog-react_typscript/Health-blog.gif)
 ## Technologies Used / Technologies Utilisées
 
 - **React:** A JavaScript library for building user interfaces. / Une bibliothèque JavaScript pour construire des interfaces utilisateur.
