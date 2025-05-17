@@ -3,6 +3,7 @@
 This project is a Health Blog application built with React and TypeScript. It fetches data from the JSONPlaceholder API to display a list of blog posts, allows users to search posts by title and filter by author, and implements an infinite scrolling feature to load more content as the user scrolls.
 
 Ce projet est une application de Blog Santé construite avec React et TypeScript. Il récupère des données de l'API JSONPlaceholder pour afficher une liste d'articles de blog, permet aux utilisateurs de rechercher des articles par titre et de filtrer par auteur, et implémente une fonctionnalité de défilement infini pour charger plus de contenu à mesure que l'utilisateur fait défiler la page.
+![Blog-React_typscript](https://github.com/yasin-erkan/Blog-React_typscript/blob/main/Health-blog.gif))
 
 ## Technologies Used / Technologies Utilisées
 
